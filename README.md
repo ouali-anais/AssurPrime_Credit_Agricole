@@ -1,4 +1,3 @@
-# AssurPrime_Credit_Agricole
 # Data Challenge Crédit Agricole Assurances – Prédiction de la Prime Pure Incendie
 
 Ce projet a été réalisé dans le cadre du **Data Challenge Crédit Agricole Assurances** sur la plateforme **ChallengeData (ENS)**.
